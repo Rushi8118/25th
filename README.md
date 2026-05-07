@@ -399,3 +399,5 @@ await supabase.from("saved_places").delete().eq("id", savedId)
 ---
 
 Built with care for global aspirants.
+#   n e w - w i t h - w h i t e  
+ 
